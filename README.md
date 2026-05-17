@@ -1,8 +1,11 @@
-# 🚀 A–Z Striver DSA Sheet Solutions
+🚀 DSA Learning Journey – Topic Wise Daily Practice
 
-This repository contains my complete solutions to the **A–Z Striver (Take U Forward) DSA Sheet**.
+This repository contains my daily Data Structures and Algorithms practice while solving problems from the famous A2Z DSA Sheet.
 
-I am solving all problems in a structured, topic-wise manner and uploading my daily progress here.
+I use the sheet only as a roadmap to track topics.
+All solutions, logic, and code are written and understood by me during practice.
+
+🎯 Goal: Build strong problem-solving skills and consistency for placements.
 
 ---
 
@@ -59,6 +62,12 @@ I upload solutions regularly as I progress through the sheet.
 
 Sheet by **Striver (Take U Forward)**
 
+---
+👨‍💻 Author
+
+Gaurav Ithape
+B.Tech CSE (AI)
+Java Full Stack | DSA | MERN
 ---
 
 ⭐ If you find this helpful, feel free to star the repo.
