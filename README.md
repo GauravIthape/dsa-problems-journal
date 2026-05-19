@@ -18,7 +18,7 @@ The A–Z Striver Sheet is a curated list of the most important Data Structures 
 - Competitive Programming
 - Strengthening DSA concepts from basic to advanced
 
-I am solving every problem with proper folder structure and clean code.
+I am solving every problem with proper folder structure and clean code..
 
 
 All problems are organized topic-wise like:
