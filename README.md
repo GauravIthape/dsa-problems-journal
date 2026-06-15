@@ -67,7 +67,7 @@ Sheet by **Striver (Take U Forward)**
 
 Gaurav Ithape
 B.Tech CSE (AI)
-Java Full Stack | DSA | MERN
+Java Full Stack | DSA |
 ---
 
 ⭐ If you find this helpful, feel free to star the repo.
